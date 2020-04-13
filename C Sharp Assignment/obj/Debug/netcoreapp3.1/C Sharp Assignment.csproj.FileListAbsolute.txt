@@ -1,0 +1,11 @@
+C:\Users\Utilisateur\source\repos\C Sharp Assignment\C Sharp Assignment\bin\Debug\netcoreapp3.1\C Sharp Assignment.exe
+C:\Users\Utilisateur\source\repos\C Sharp Assignment\C Sharp Assignment\bin\Debug\netcoreapp3.1\C Sharp Assignment.deps.json
+C:\Users\Utilisateur\source\repos\C Sharp Assignment\C Sharp Assignment\bin\Debug\netcoreapp3.1\C Sharp Assignment.runtimeconfig.json
+C:\Users\Utilisateur\source\repos\C Sharp Assignment\C Sharp Assignment\bin\Debug\netcoreapp3.1\C Sharp Assignment.runtimeconfig.dev.json
+C:\Users\Utilisateur\source\repos\C Sharp Assignment\C Sharp Assignment\bin\Debug\netcoreapp3.1\C Sharp Assignment.dll
+C:\Users\Utilisateur\source\repos\C Sharp Assignment\C Sharp Assignment\bin\Debug\netcoreapp3.1\C Sharp Assignment.pdb
+C:\Users\Utilisateur\source\repos\C Sharp Assignment\C Sharp Assignment\obj\Debug\netcoreapp3.1\C Sharp Assignment.csprojAssemblyReference.cache
+C:\Users\Utilisateur\source\repos\C Sharp Assignment\C Sharp Assignment\obj\Debug\netcoreapp3.1\C Sharp Assignment.AssemblyInfoInputs.cache
+C:\Users\Utilisateur\source\repos\C Sharp Assignment\C Sharp Assignment\obj\Debug\netcoreapp3.1\C Sharp Assignment.AssemblyInfo.cs
+C:\Users\Utilisateur\source\repos\C Sharp Assignment\C Sharp Assignment\obj\Debug\netcoreapp3.1\C Sharp Assignment.dll
+C:\Users\Utilisateur\source\repos\C Sharp Assignment\C Sharp Assignment\obj\Debug\netcoreapp3.1\C Sharp Assignment.pdb
